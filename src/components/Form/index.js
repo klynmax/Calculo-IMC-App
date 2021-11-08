@@ -47,7 +47,6 @@ export default function Form() {
           onChangeText={setWeigth}
           value={weigth}
         />
-        {/* <Button title={textButton} onPress={() => validationImc()} /> */}
         <TouchableOpacity
           style={styles.buttonCalculator}
           onPress={() => validationImc()}

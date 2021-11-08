@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
     height: 40,
     margin: 12,
     paddingLeft: 10,
+    color: "#000000",
   },
   buttonCalculator: {
     borderRadius: 50,

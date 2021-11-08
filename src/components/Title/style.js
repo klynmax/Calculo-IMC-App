@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
   },
   textTitle: {
     color: "#FF0043",
+    // color: "#40E0D0",
     fontSize: 24,
     fontWeight: "bold",
   },
